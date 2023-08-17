@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-
-
-![](https://github-readme-stats.vercel.app/api?username=marnysan111&count_private=true&show_icons=true&theme=dracula)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marnysan111&layout=compact&theme=dracula)
+<a href="https://github.com/marnysan111">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=marnysan111&count_private=true&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/marnysan111">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marnysan111&layout=compact&theme=dracula" />
+</a>
 <!--
 **marnysan111/marnysan111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
